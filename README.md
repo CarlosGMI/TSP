@@ -1,2 +1,14 @@
-# TSP
-Proyecto de Computación Emergente. Simulación de un problema del vendedor viajante (TSP) resuelto a través del algoritmo de Optimización por Colonia de Hormigas.
+# **TSP y Optimización por Colonia de Hormigas**
+
+Universidad Metropolitana.  
+Proyecto de Computación Emergente.  
+
+**=======================================**
+
+Resolución del problema del viajero vendedor (TSP) a través de una simulación mediante el algoritmo de Optimización por Colonia de Hormigas.     
+Realizada con en lenguaje de programación Java y el entorno de desarrollo NetBeans. 
+
+**=======================================**  
+
+**Desarrolladores:**.   
+Maldonado, Carlos.  
